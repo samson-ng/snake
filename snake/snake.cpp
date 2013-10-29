@@ -22,6 +22,7 @@ const int height = 500;
 int interval = 200;
 
 enum {
+
   numberOfCols = 19,
   numberOfRows = 19,
   tailLength = 70,
